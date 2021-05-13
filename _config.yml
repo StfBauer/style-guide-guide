@@ -24,13 +24,29 @@ features:
   - components: false
 
 sections:
+  - title: Getting Started
+    url: getting-started
+    type: static
   - title:  How tos
     path: how-tos
     group: how-tos
+    type: dynamic
   - title: Guidelines
     path: guidelines
     group: guidelines
+    type: dynamic
   - title: Styles
     path: styles
     group: styles
+    type: dynamic
+  - title: Downloads
+    type: static
+    url: download
+  - title: Support
+    type: static
+    url: support
+  - title: Contribute
+    type: static
+    url: contribute
+
 
