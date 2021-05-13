@@ -5,3 +5,8 @@ description: The about page should provide a bit more high-level information abo
 ---
 
 Check out [MailChimp's pattern library about page](http://ux.mailchimp.com/patterns/about) for inspiration.
+
+
+```json
+{{ site | inspect }}
+```

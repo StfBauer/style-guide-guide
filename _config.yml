@@ -19,3 +19,18 @@ github_username:  bradfrost
 
 # Build settings
 markdown: kramdown
+
+features:
+  - components: false
+
+sections:
+  - title:  How tos
+    path: how-tos
+    group: how-tos
+  - title: Guidelines
+    path: guidelines
+    group: guidelines
+  - title: Styles
+    path: styles
+    group: styles
+
